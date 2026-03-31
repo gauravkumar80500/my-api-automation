@@ -1,19 +1,19 @@
-Last Updated (IST): 2026-03-31 22:43:59
+Last Updated (IST): 2026-03-31 23:13:12
 
 ### Today's Receipts
 Contract No  NAME                           Date Received   Receipt No         Amount     EMI Amount   EMI Day   Mobile No       Co-Borrower     Guarantor       Instr Type     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 10880086     MAHESH   GURJAR                Today           BBP/222333         14700      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
-9667780      MASTRAM   MEENA                Today           ONM/321464         19700      19700        5         9782124719      9782124719      8952983994      CASH           
-8815746      RAHUL SINGH GURJAR             Today           AXI/349689         23700      23700        10        6376306299      9843009090      9772815195      BANK TRANSFER  
+9667780      MASTRAM   MEENA                Today           ONM/321464         19700      N/A          N/A       N/A             N/A             N/A             CASH           
+8815746      RAHUL SINGH GURJAR             Today           AXI/349689         23700      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
 8727962      LAXMAN   SINGH                 Today           AXI/344118         9100       9100         10        7742225143                      9929198448      BANK TRANSFER  
 
 
 ### All Receipts
 Contract No  NAME                           Date Received   Receipt No         Amount     EMI Amount   EMI Day   Mobile No       Co-Borrower     Guarantor       Instr Type     
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-10521258     DEVENDRA   SINGH               26-MAR-2026     ONR/261179         3250       N/A          N/A       N/A             N/A             N/A             CASH           
-9631990      ANKIT KUMAR SHARMA             05-FEB-2026     PYU/13171          5125       N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
+10521258     DEVENDRA   SINGH               26-MAR-2026     ONR/261179         3250       3282         5         9694075712                                      CASH           
+9631990      ANKIT KUMAR SHARMA             05-FEB-2026     PYU/13171          5125       5120         5         9413681043                      8560960327      BANK TRANSFER  
 8703919      MUBARIK   KHAN                 25-MAR-2026     ONR/253551         6500       8500         5         7737786909                      9024067376      CASH           
 9401473      SHYAM LAL JAIN                 25-MAR-2026     BBP/196204         10000      10000        10        9928840137                                      BANK TRANSFER  
 10451667     RAKESH KUMAR BAIRWA            26-MAR-2026     AXI/311742         10110      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
@@ -22,15 +22,15 @@ Contract No  NAME                           Date Received   Receipt No         A
 9801882      ANIL KUMAR PRAJAPAT            27-MAR-2026     ONM/267121         11600      11600        10        9602091186                      9829378431      CASH           
 10575712     JUGRAJ   RAMLAL                28-FEB-2026     BBP/233074         12900      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
 10880086     MAHESH   GURJAR                Today           BBP/222333         14700      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
-10550510     BRIJ MOHAN MEENA               29-MAR-2026     AXI/331182         15400      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
-8655693      SAMAY SINGH GURJAR             24-MAR-2026     AXI/296224         15580      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
+10550510     BRIJ MOHAN MEENA               29-MAR-2026     AXI/331182         15400      15400        5         9799198725                                      BANK TRANSFER  
+8655693      SAMAY SINGH GURJAR             24-MAR-2026     AXI/296224         15580      15580        10        8905103748                      7240148141      BANK TRANSFER  
 10007434     HEMRAJ   MEENA                 21-FEB-2026     CMP/71449          15629      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
-9368177      ISMALAUDDIN   KHAN             30-MAR-2026     ONR/299336         16500      N/A          N/A       N/A             N/A             N/A             CASH           
+9368177      ISMALAUDDIN   KHAN             30-MAR-2026     ONR/299336         16500      16500        5         9772716415                      9672942910      CASH           
 10211222     MUKESH KUMAR MEENA             10-FEB-2026     HMC/R25K/137973    17800      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
 9458825      PHATEH SINGH GURJAR            25-MAR-2026     BBP/193282         18350      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
-9667780      MASTRAM   MEENA                Today           ONM/321464         19700      19700        5         9782124719      9782124719      8952983994      CASH           
-8341016      DINESH KUMAR SHARMA            25-MAR-2026     AXI/296811         21380      21380        10        9982274549                      9636432119      BANK TRANSFER  
+9667780      MASTRAM   MEENA                Today           ONM/321464         19700      N/A          N/A       N/A             N/A             N/A             CASH           
+8341016      DINESH KUMAR SHARMA            25-MAR-2026     AXI/296811         21380      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
 9511092      DEVENDRA   SINGH               26-MAR-2026     ONR/261123         22100      N/A          N/A       N/A             N/A             N/A             CASH           
-8815746      RAHUL SINGH GURJAR             Today           AXI/349689         23700      23700        10        6376306299      9843009090      9772815195      BANK TRANSFER  
+8815746      RAHUL SINGH GURJAR             Today           AXI/349689         23700      N/A          N/A       N/A             N/A             N/A             BANK TRANSFER  
 9195003      HARSHVARDHAN SON OF ATRAJ      12-FEB-2026     ONM/4225           135000     33750        5         6375074221      9649988132                      LOCAL CHEQUE   
 8727962      LAXMAN   SINGH                 Today           AXI/344118         9100       9100         10        7742225143                      9929198448      BANK TRANSFER  
