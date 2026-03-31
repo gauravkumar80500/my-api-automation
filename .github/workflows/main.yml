@@ -2,11 +2,11 @@ name: Auto and Manual Run
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Har 1 ghante mein chalega
-  workflow_dispatch:      # Isse manual button milega
+    - cron: '*/15 * * * *'  # Ab ye har 15 minute mein apne aap chalega
+  workflow_dispatch:      # Isse aap jab chahein button daba kar bhi chala sakte hain
 
 permissions:
-  contents: write         # Ye line file save karne ke liye zaroori hai
+  contents: write         # Data save karne ke liye permission
 
 jobs:
   build:
@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git commit -m "Automated data update" || exit 0
+          git commit -m "Automated data update (Every 15 min)" || exit 0
           git push
