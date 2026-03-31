@@ -1,9 +1,9 @@
-name: Auto Update Data
+name: Auto and Manual Run
 
 on:
   schedule:
-    - cron: '0 * * * *' # Har 1 ghante mein apne aap chalega
-  workflow_dispatch: # Isse aap button daba kar bhi chala sakte hain
+    - cron: '0 * * * *'  # Har 1 ghante mein apne aap chalega
+  workflow_dispatch:      # Isse "Run workflow" ka button mil jayega
 
 jobs:
   build:
@@ -17,16 +17,8 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install libraries
+      - name: Install dependencies
         run: pip install requests
 
       - name: Run script
         run: python main.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
-          git add data.json
-          git commit -m "Auto update data" || exit 0
-          git push
