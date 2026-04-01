@@ -8,6 +8,9 @@ on:
 permissions:
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -34,6 +37,6 @@ jobs:
         run: |
           git config --global user.name "bot"
           git config --global user.email "bot@users.noreply.github.com"
-          git add data.json history.json report.txt || true
+          git add data.json history.json report.txt ids.json || true
           git commit -m "Auto update $(date)" || echo "no changes"
           git push
